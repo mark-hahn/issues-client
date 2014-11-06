@@ -1,0 +1,4 @@
+
+'.workspace':
+  'ctrl-alt-shift-i': 'issues-client:open'
+

@@ -2,7 +2,7 @@
   "name": "issues-client",
   "main": "./lib/issues-client",
   "version": "0.1.0",
-  "description": "Example package to open any HTML in a tab.",
+  "description": "Show and respond to issues for all your github repos.",
   "activationEvents": ["ctrl-alt-shift-i:open"],
   "repository": "https://github.com/mark-hahn/html-tab",
   "license": "MIT",
